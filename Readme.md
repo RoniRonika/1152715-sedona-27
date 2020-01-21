@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Вероника Фролова](https://up.htmlacademy.ru/htmlcss/27/user/1152715).
-* Наставник: `Неизвестно`.
+* Студент: [Вероника Васильева](https://up.htmlacademy.ru/htmlcss/27/user/1152715).
+* Наставник: [Александр Панасюк] (https://htmlacademy.ru/profile/sasha_oldsport).
 
 ---
 
